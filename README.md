@@ -12,22 +12,28 @@ To do data cleaning and analyze sales data across time, product lines, customers
 •	2003: ₦3,516,979.54
 •	2004: ₦4,724,162.60 (peak year)
 •	2005: ₦1,791,486.71 (sharp decline)
+
 2.	Sales by Product Line
 •	Classic Cars: ₦3,919,616 (highest)
 •	Vintage Cars: ₦1,903,151
 •	Other categories (Motorcycles, Trucks, Planes, Ships, Trains) contribute less.
+
+
 3.	Monthly Sales Trend
 •	November = strongest sales month.
 •	Decline after May, showing seasonal demand cycles.
+
 4.	Product Line vs Quantity Ordered
 •	Classic Cars: 33,992 units (highest demand).
 •	Vintage Cars: 21,069 units.
 •	Demand aligns with revenue dominance.
+
 5.	Customer Contribution
 •	Diego Freyre: 47%
 •	Valarie Nelson: 33%
 •	Jeff Young & Peter Ferguson: 10% each
 •	Highly concentrated → top 2 customers = 80% of sales.
+
 6.	Top 5 Countries by Sales
 •	USA: ₦3,627,982.83 (36% of total sales).
 •	Spain, France, Australia, and UK follow with smaller shares.

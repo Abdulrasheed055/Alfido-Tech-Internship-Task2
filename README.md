@@ -49,7 +49,8 @@ To do data cleaning and analyze sales data across time, product lines, customers
 🔧 Tools Used
 
 •	Excel → Data cleaning & prep
-
+ ## dashboard
+![dasboard](https://github.com/Abdulrasheed055/Alfido-Tech-Internship-Task2/blob/main/pic2.jpg)
 
 
 🚀 Conclusion
